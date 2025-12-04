@@ -1,7 +1,0 @@
-data → fala com SQL
-
-services → centralizar a logica
-
-ui → tela Streamlit
-
-app.py → carrega as páginas
